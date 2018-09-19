@@ -1,0 +1,140 @@
+2018-09-13 13:02:37 Error: [Error] Class 'Settings\Core\Setting' not found in /container/application/public/ateed/vendor/cakemanager/cakeadmin-lightstrap/config/bootstrap.php on line 26
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/BasePlugin.php(239): require()
+#1 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(161): Cake\Core\BasePlugin->bootstrap(Object(App\Application))
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(193): Cake\Http\BaseApplication->pluginBootstrap()
+#3 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#4 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#5 {main}
+
+
+2018-09-13 13:03:21 Error: [Error] Class 'Settings\Core\Setting' not found in /container/application/public/ateed/vendor/cakemanager/cakeadmin-lightstrap/config/bootstrap.php on line 26
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/BasePlugin.php(239): require()
+#1 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(161): Cake\Core\BasePlugin->bootstrap(Object(App\Application))
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(193): Cake\Http\BaseApplication->pluginBootstrap()
+#3 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#4 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#5 {main}
+
+
+2018-09-18 04:19:08 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:19:17 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:20:14 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:20:19 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:20:37 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:33:34 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:35:00 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
+2018-09-18 04:35:54 Error: [Cake\Core\Exception\MissingPluginException] Plugin StallholderContract could not be found. in /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 127
+Exception Attributes: array (
+  'plugin' => 'StallholderContract',
+)
+Stack Trace:
+#0 /container/application/public/ateed/vendor/cakephp/cakephp/src/Core/Plugin.php(134): Cake\Core\PluginCollection->findPath('StallholderCont...')
+#1 /container/application/public/ateed/config/bootstrap.php(203): Cake\Core\Plugin::load('StallholderCont...', Array)
+#2 /container/application/public/ateed/vendor/cakephp/cakephp/src/Http/BaseApplication.php(152): require_once('/container/appl...')
+#3 /container/application/public/ateed/src/Application.php(40): Cake\Http\BaseApplication->bootstrap()
+#4 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(191): App\Application->bootstrap()
+#5 /container/application/public/ateed/vendor/cakephp/cakephp/src/Console/CommandRunner.php(136): Cake\Console\CommandRunner->bootstrap()
+#6 /container/application/public/ateed/bin/cake.php(12): Cake\Console\CommandRunner->run(Array)
+#7 {main}
+
+
